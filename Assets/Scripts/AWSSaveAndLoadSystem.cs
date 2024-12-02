@@ -78,15 +78,13 @@ public class AWSSaveAndLoadSystem : MonoBehaviour, IAWSSaveAndLoadService
     // Load System
     public async void Load()
     {
-        Debug.Log(" geldi ");
         var email = await cognitoSDKController.GetUserAsync();
-        LoadDataAsync(email);
+        await LoadDataAsync(email);
         StartCoroutine(GetUserInfo());
     }
 
     private IEnumerator GetUserInfo()
     {
-        print("geldi get user info");
         using (var webRequest = UnityWebRequest.Get($"{MyUtils.hostedUIDomain}/oauth2/userInfo"))
         {
             webRequest.SetRequestHeader("Content-Type", "application/x-amz-json-1.1; charset=UTF-8 ");
@@ -96,10 +94,8 @@ public class AWSSaveAndLoadSystem : MonoBehaviour, IAWSSaveAndLoadService
 
             if (webRequest.result == UnityWebRequest.Result.Success)
             {
-                print("geldi get user info using if");
                 var user = JsonUtility.FromJson<CognitoHostedUIUser>(webRequest.downloadHandler.text);
 
-                print($"user info : {user} | nickname {user.nickname}");
                 nickNameText.text = $"Hi {user.nickname}";
                 if (!string.IsNullOrEmpty(user.picture)) StartCoroutine(GetPicture(user.picture));
             }

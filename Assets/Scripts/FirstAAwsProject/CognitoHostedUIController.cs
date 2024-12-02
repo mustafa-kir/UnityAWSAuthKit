@@ -97,7 +97,7 @@ public class CognitoHostedUIController : MonoBehaviour
 
     public void OpenHostedUI()
     {
-        string callbackURL;
+        string callbackURL = "";
 #if UNITY_ANDROID
         callbackURL = "my-demo-app://login";
 #endif
@@ -108,7 +108,7 @@ public class CognitoHostedUIController : MonoBehaviour
 
     public void LoginWithGoogle()
     {
-        string callbackURL;
+        string callbackURL = "";
 #if UNITY_ANDROID
         callbackURL = "my-demo-app://login";
 #endif
@@ -118,7 +118,7 @@ public class CognitoHostedUIController : MonoBehaviour
 
     public void LoginWithFacebook()
     {
-        string callbackURL;
+        string callbackURL = "";
 #if UNITY_ANDROID
         callbackURL = "my-demo-app://login";
 #endif
