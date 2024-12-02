@@ -1,0 +1,2 @@
+C:\Users\musta\Desktop\Game Development\OtherProjects\awsDenemeProjesi\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\musta\Desktop\Game Development\OtherProjects\awsDenemeProjesi\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\FramePacing\CMakeLists.txt

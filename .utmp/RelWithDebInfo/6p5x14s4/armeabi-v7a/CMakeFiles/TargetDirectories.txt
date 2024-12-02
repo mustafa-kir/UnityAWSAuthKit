@@ -1,0 +1,5 @@
+C:/Users/musta/Desktop/Game Development/OtherProjects/awsDenemeProjesi/.utmp/RelWithDebInfo/6p5x14s4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/musta/Desktop/Game Development/OtherProjects/awsDenemeProjesi/.utmp/RelWithDebInfo/6p5x14s4/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/musta/Desktop/Game Development/OtherProjects/awsDenemeProjesi/.utmp/RelWithDebInfo/6p5x14s4/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/musta/Desktop/Game Development/OtherProjects/awsDenemeProjesi/.utmp/RelWithDebInfo/6p5x14s4/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/musta/Desktop/Game Development/OtherProjects/awsDenemeProjesi/.utmp/RelWithDebInfo/6p5x14s4/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
