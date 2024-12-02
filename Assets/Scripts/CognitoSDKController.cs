@@ -48,7 +48,7 @@ public class CognitoSDKController : MonoSingleton<CognitoSDKController>
         {
             AccessToken = accessToken
         };
-
+        print(getUserRequest.AccessToken);
         var response = await _cognitoService.GetUserAsync(getUserRequest);
         var email = response.UserAttributes.Find(attribute => attribute.Name == "email");
 
@@ -112,7 +112,7 @@ public class CognitoSDKController : MonoSingleton<CognitoSDKController>
         return response.HttpStatusCode == HttpStatusCode.OK;
     }
 
-    private async Task<bool> GlobalSignOutAsync()
+    public async Task<bool> GlobalSignOutAsync()
     {
         var signOutRequest = new GlobalSignOutRequest
         {
@@ -122,7 +122,7 @@ public class CognitoSDKController : MonoSingleton<CognitoSDKController>
         return response.HttpStatusCode == HttpStatusCode.OK;
     }
 
-    private async Task<bool> PartialSignOutAsync()
+    public async Task<bool> PartialSignOutAsync()
     {
         var revokeTokenRequest = new RevokeTokenRequest
         {

@@ -48,6 +48,11 @@ public class UILoginPage : BasePage
         CognitoHostedUIController.Instance.LoginWithFacebook();
     }
 
+    public void LoginWithApple()
+    {
+        CognitoHostedUIController.Instance.LoginWithApple();
+    }
+
     public void SignUp()
     {
         uiController.TriggerOpenPage("SignUpPage");

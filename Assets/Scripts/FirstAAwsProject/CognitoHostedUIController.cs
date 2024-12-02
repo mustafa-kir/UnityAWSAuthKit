@@ -43,7 +43,7 @@ public class CognitoHostedUIController : MonoBehaviour
             if (!string.IsNullOrEmpty(urlParams))
             {
                 access_token = HttpUtility.ParseQueryString(urlParams).Get("access_token");
-
+                Debug.Log($"access toke :  {access_token}");
                 if (!string.IsNullOrEmpty(access_token)) Login();
             }
         }
@@ -97,7 +97,7 @@ public class CognitoHostedUIController : MonoBehaviour
 
     public void OpenHostedUI()
     {
-        string callbackURL = "";
+        string callbackURL;
 #if UNITY_ANDROID
         callbackURL = "my-demo-app://login";
 #endif
@@ -108,7 +108,7 @@ public class CognitoHostedUIController : MonoBehaviour
 
     public void LoginWithGoogle()
     {
-        string callbackURL = "";
+        string callbackURL;
 #if UNITY_ANDROID
         callbackURL = "my-demo-app://login";
 #endif
@@ -118,12 +118,25 @@ public class CognitoHostedUIController : MonoBehaviour
 
     public void LoginWithFacebook()
     {
-        string callbackURL = "";
+        string callbackURL;
 #if UNITY_ANDROID
         callbackURL = "my-demo-app://login";
 #endif
 
         Application.OpenURL(
             $"{MyUtils.hostedUIDomain}/oauth2/authorize?identity_provider=Facebook&client_id={MyUtils.appClientID}&response_type=token&scope=aws.cognito.signin.user.admin+openid&redirect_uri={callbackURL}");
+    }
+
+    public void LoginWithApple()
+    {
+        string callbackURL;
+#if UNITY_ANDROID
+        callbackURL = "my-demo-app://login";
+#elif UNITY_IOS
+    callbackURL = "my-demo-app://login";
+#endif
+
+        Application.OpenURL(
+            $"{MyUtils.hostedUIDomain}/oauth2/authorize?identity_provider=Apple&client_id={MyUtils.appClientID}&response_type=token&scope=aws.cognito.signin.user.admin+openid&redirect_uri={callbackURL}");
     }
 }

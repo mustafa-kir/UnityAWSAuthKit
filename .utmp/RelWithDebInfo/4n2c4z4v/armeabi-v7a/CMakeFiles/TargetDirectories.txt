@@ -1,0 +1,5 @@
+C:/Users/musta/Desktop/Game Development/OtherProjects/UnityAWSAuthKit/.utmp/RelWithDebInfo/4n2c4z4v/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/musta/Desktop/Game Development/OtherProjects/UnityAWSAuthKit/.utmp/RelWithDebInfo/4n2c4z4v/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Users/musta/Desktop/Game Development/OtherProjects/UnityAWSAuthKit/.utmp/RelWithDebInfo/4n2c4z4v/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/musta/Desktop/Game Development/OtherProjects/UnityAWSAuthKit/.utmp/RelWithDebInfo/4n2c4z4v/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/musta/Desktop/Game Development/OtherProjects/UnityAWSAuthKit/.utmp/RelWithDebInfo/4n2c4z4v/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

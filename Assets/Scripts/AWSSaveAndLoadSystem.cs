@@ -105,6 +105,7 @@ public class AWSSaveAndLoadSystem : MonoBehaviour, IAWSSaveAndLoadService
 
     private IEnumerator GetPicture(string pictureUrl)
     {
+        Debug.Log("getpicture: geldi");
         using (var uwr = UnityWebRequestTexture.GetTexture(pictureUrl))
         {
             yield return uwr.SendWebRequest();
