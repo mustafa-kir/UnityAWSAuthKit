@@ -137,6 +137,6 @@ public class CognitoHostedUIController : MonoBehaviour
 #endif
 
         Application.OpenURL(
-            $"{MyUtils.hostedUIDomain}/oauth2/authorize?identity_provider=Apple&client_id={MyUtils.appClientID}&response_type=token&scope=aws.cognito.signin.user.admin+openid&redirect_uri={callbackURL}");
+            $"{MyUtils.hostedUIDomain}/oauth2/authorize?identity_provider=SignInWithApple&client_id={MyUtils.appClientID}&response_type=token&scope=aws.cognito.signin.user.admin+openid&redirect_uri={callbackURL}");
     }
 }

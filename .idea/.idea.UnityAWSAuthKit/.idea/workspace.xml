@@ -6,15 +6,39 @@
   <component name="ChangeListManager">
     <list default="true" id="0ada3159-bbba-4fc6-b31f-dde0fc8191ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityAWSAuthKit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityAWSAuthKit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.utmp/tools/release/arm64-v8a/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/.utmp/tools/release/arm64-v8a/compile_commands.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.utmp/tools/release/armeabi-v7a/compile_commands.json" beforeDir="false" afterPath="$PROJECT_DIR$/.utmp/tools/release/armeabi-v7a/compile_commands.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Android/Facebook.Unity.Android.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Android/Facebook.Unity.Android.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Canvas/CanvasJSSDKBindings.jslib.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Canvas/CanvasJSSDKBindings.jslib.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Canvas/Facebook.Unity.Canvas.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Canvas/Facebook.Unity.Canvas.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/Facebook.Unity.Windows.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/Facebook.Unity.Windows.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/LibFBGManaged.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/LibFBGManaged.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/XInputDotNetPure.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/XInputDotNetPure.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/LibFBGPlatform.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/LibFBGPlatform.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/LibFBGUI.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/LibFBGUI.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/WebView2Loader.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/WebView2Loader.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/XInputInterface.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/XInputInterface.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/cpprest_2_10.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/cpprest_2_10.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libcrypto-3-x64.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libcrypto-3-x64.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libcurl.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libcurl.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libssl-3-x64.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libssl-3-x64.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/tinyxml2.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/tinyxml2.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/zlib1.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/zlib1.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/LibFBGPlatform.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/LibFBGPlatform.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/LibFBGUI.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/LibFBGUI.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/WebView2Loader.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/WebView2Loader.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/XInputInterface.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/XInputInterface.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/cpprest_2_10.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/cpprest_2_10.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libcrypto-3.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libcrypto-3.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libcurl.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libcurl.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libssl-3.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libssl-3.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/tinyxml2.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/tinyxml2.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/zlib1.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/zlib1.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/iOS/Facebook.Unity.IOS.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/iOS/Facebook.Unity.IOS.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKShareTournamentDialog.swift.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKShareTournamentDialog.swift.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournament.swift.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournament.swift.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournamentFetcher.swift.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournamentFetcher.swift.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournamentUpdater.swift.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournamentUpdater.swift.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/AWSProject.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AWSProject.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/AWSSaveAndLoadSystem.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/AWSSaveAndLoadSystem.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CognitoSDKController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CognitoSDKController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/FirstAAwsProject/CognitoHostedUIController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FirstAAwsProject/CognitoHostedUIController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/UIGameMenuPage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/UIGameMenuPage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/UILoginPage.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/UILoginPage.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +51,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "MustafaKIR-Evry"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;MustafaKIR-Evry&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/mustafa-kir/UnityAWSAuthKit.git",
-    "accountId": "90bf5cc9-e74a-4d27-9183-6127adc2284e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mustafa-kir/UnityAWSAuthKit.git&quot;,
+    &quot;accountId&quot;: &quot;90bf5cc9-e74a-4d27-9183-6127adc2284e&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -47,20 +71,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "rider.code.cleanup.on.save": "true",
-    "settings.editor.selected.configurable": "actions.on.save",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;rider.code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.26f1\Editor\Unity.exe" />
@@ -114,7 +138,8 @@
       <option name="presentableId" value="Default" />
       <updated>1733121502223</updated>
       <workItem from="1733121503086" duration="21000" />
-      <workItem from="1733121720278" duration="12261000" />
+      <workItem from="1733121720278" duration="12899000" />
+      <workItem from="1733203524431" duration="1098000" />
     </task>
     <servers />
   </component>
