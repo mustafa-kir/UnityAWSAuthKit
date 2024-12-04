@@ -6,37 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0ada3159-bbba-4fc6-b31f-dde0fc8191ca" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.UnityAWSAuthKit/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnityAWSAuthKit/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Android/Facebook.Unity.Android.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Android/Facebook.Unity.Android.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Canvas/CanvasJSSDKBindings.jslib.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Canvas/CanvasJSSDKBindings.jslib.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Canvas/Facebook.Unity.Canvas.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Canvas/Facebook.Unity.Canvas.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/Facebook.Unity.Windows.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/Facebook.Unity.Windows.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/LibFBGManaged.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/LibFBGManaged.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/XInputDotNetPure.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/XInputDotNetPure.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/LibFBGPlatform.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/LibFBGPlatform.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/LibFBGUI.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/LibFBGUI.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/WebView2Loader.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/WebView2Loader.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/XInputInterface.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/XInputInterface.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/cpprest_2_10.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/cpprest_2_10.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libcrypto-3-x64.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libcrypto-3-x64.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libcurl.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libcurl.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libssl-3-x64.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/libssl-3-x64.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/tinyxml2.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/tinyxml2.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/zlib1.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x64/zlib1.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/LibFBGPlatform.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/LibFBGPlatform.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/LibFBGUI.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/LibFBGUI.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/WebView2Loader.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/WebView2Loader.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/XInputInterface.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/XInputInterface.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/cpprest_2_10.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/cpprest_2_10.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libcrypto-3.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libcrypto-3.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libcurl.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libcurl.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libssl-3.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/libssl-3.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/tinyxml2.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/tinyxml2.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/zlib1.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/Windows/x86/zlib1.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/iOS/Facebook.Unity.IOS.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/Plugins/iOS/Facebook.Unity.IOS.dll.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKShareTournamentDialog.swift.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKShareTournamentDialog.swift.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournament.swift.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournament.swift.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournamentFetcher.swift.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournamentFetcher.swift.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournamentUpdater.swift.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FacebookSDK/SDK/Editor/iOS/Swift/FBSDKTournamentUpdater.swift.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/AWSProject.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/AWSProject.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/FirstAAwsProject/CognitoHostedUIController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FirstAAwsProject/CognitoHostedUIController.cs" afterDir="false" />
     </list>
@@ -139,7 +108,7 @@
       <updated>1733121502223</updated>
       <workItem from="1733121503086" duration="21000" />
       <workItem from="1733121720278" duration="12899000" />
-      <workItem from="1733203524431" duration="1098000" />
+      <workItem from="1733203524431" duration="8455000" />
     </task>
     <servers />
   </component>

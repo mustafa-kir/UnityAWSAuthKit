@@ -100,6 +100,10 @@ public class CognitoHostedUIController : MonoBehaviour
         string callbackURL;
 #if UNITY_ANDROID
         callbackURL = "my-demo-app://login";
+#elif UNITY_WEBGL
+        callbackURL = Application.absoluteURL;
+#elif UNITY_IOS
+    callbackURL = "my-demo-app://login";
 #endif
 
         Application.OpenURL(
@@ -111,6 +115,10 @@ public class CognitoHostedUIController : MonoBehaviour
         string callbackURL;
 #if UNITY_ANDROID
         callbackURL = "my-demo-app://login";
+#elif UNITY_WEBGL
+        callbackURL = Application.absoluteURL;
+#elif UNITY_IOS
+    callbackURL = "my-demo-app://login";
 #endif
         Application.OpenURL(
             $"{MyUtils.hostedUIDomain}/oauth2/authorize?identity_provider=Google&client_id={MyUtils.appClientID}&response_type=token&scope=aws.cognito.signin.user.admin+openid&redirect_uri={callbackURL}");
@@ -121,6 +129,10 @@ public class CognitoHostedUIController : MonoBehaviour
         string callbackURL;
 #if UNITY_ANDROID
         callbackURL = "my-demo-app://login";
+#elif UNITY_WEBGL
+        callbackURL = Application.absoluteURL;
+#elif UNITY_IOS
+    callbackURL = "my-demo-app://login";
 #endif
 
         Application.OpenURL(
@@ -132,6 +144,8 @@ public class CognitoHostedUIController : MonoBehaviour
         string callbackURL;
 #if UNITY_ANDROID
         callbackURL = "my-demo-app://login";
+#elif UNITY_WEBGL
+        callbackURL = Application.absoluteURL;
 #elif UNITY_IOS
     callbackURL = "my-demo-app://login";
 #endif
@@ -139,4 +153,5 @@ public class CognitoHostedUIController : MonoBehaviour
         Application.OpenURL(
             $"{MyUtils.hostedUIDomain}/oauth2/authorize?identity_provider=SignInWithApple&client_id={MyUtils.appClientID}&response_type=token&scope=aws.cognito.signin.user.admin+openid&redirect_uri={callbackURL}");
     }
+    
 }
